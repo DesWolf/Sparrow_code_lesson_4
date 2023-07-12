@@ -13,6 +13,7 @@
 		1A9D91FE2A5BE8AD00C60ECF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A9D91FC2A5BE8AD00C60ECF /* Main.storyboard */; };
 		1A9D92002A5BE8AE00C60ECF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A9D91FF2A5BE8AE00C60ECF /* Assets.xcassets */; };
 		1A9D92032A5BE8AE00C60ECF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A9D92012A5BE8AE00C60ECF /* LaunchScreen.storyboard */; };
+		1A9D920B2A5C103600C60ECF /* LessonCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A9D920A2A5C103600C60ECF /* LessonCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1A9D91FF2A5BE8AE00C60ECF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1A9D92022A5BE8AE00C60ECF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1A9D92042A5BE8AE00C60ECF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1A9D920A2A5C103600C60ECF /* LessonCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LessonCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				1A9D91F62A5BE8AD00C60ECF /* AppDelegate.swift */,
 				1A9D91F82A5BE8AD00C60ECF /* SceneDelegate.swift */,
 				1A9D91FA2A5BE8AD00C60ECF /* ViewController.swift */,
+				1A9D920A2A5C103600C60ECF /* LessonCell.swift */,
 				1A9D91FC2A5BE8AD00C60ECF /* Main.storyboard */,
 				1A9D91FF2A5BE8AE00C60ECF /* Assets.xcassets */,
 				1A9D92012A5BE8AE00C60ECF /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				1A9D91FB2A5BE8AD00C60ECF /* ViewController.swift in Sources */,
 				1A9D91F72A5BE8AD00C60ECF /* AppDelegate.swift in Sources */,
 				1A9D91F92A5BE8AD00C60ECF /* SceneDelegate.swift in Sources */,
+				1A9D920B2A5C103600C60ECF /* LessonCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
